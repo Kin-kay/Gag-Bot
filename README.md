@@ -14,6 +14,12 @@ Fill .env file (XXXXX is bot token):
 # .env
 DISCORD_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
+### Modules/Dependencies
+[Discord py](https://github.com/Rapptz/discord.py)
+
+[python-dotenv](https://pypi.org/project/python-dotenv/)
+
+[python 3](https://www.python.org/downloads/)
 ## Usage
 The minimum commands needed is:
 
